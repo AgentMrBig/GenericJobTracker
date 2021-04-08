@@ -1,3 +1,6 @@
+generic-job-traker app is a project to track jobs in a cabinet shop, but as the name implies I will 
+make it so it could be used to track almost any type of job.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
